@@ -35,6 +35,7 @@ a{
      font-size: 42px;
      color: white;
   }
-  a{
-      
+  .lastlink{
+      text-align: right;
+      color: gray;
   }
